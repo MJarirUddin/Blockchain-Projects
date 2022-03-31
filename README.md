@@ -1,9 +1,12 @@
-# Made with ❤️ and Solidity
+# My[^1] Blockchain Portfolio Repository
 ---
 
-## This repository contains my[^1] completed blockhain projects as a portfolio.
+# Made with ❤️ and Solidity
+***
 
-### There are two types of projects including: 
+## This repository contains some of my personal completed blockhain projects as a portfolio.
+
+### There are two types of projects that include: 
   - Full Stack DApps made with JS Frontend and Solidity Smart Contracts
     * Digital MarketPlace
     * NFT Pet Shop
@@ -15,4 +18,3 @@
 
       [LinkedIn](https://www.linkedin.com/in/jarir-ju/)
       [Twitter](https://twitter.com/JarirUddin)
-      
