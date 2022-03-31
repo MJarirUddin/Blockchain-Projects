@@ -1,4 +1,4 @@
-# My[^1] Blockchain Portfolio Repository
+# My Blockchain Portfolio Repository
 ---
 
 # Made with ❤️ and Solidity
