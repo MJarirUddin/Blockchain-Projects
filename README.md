@@ -12,6 +12,7 @@
     * Smart Estate
 
 [^1]: Muhammad JarirUddin - Blockchain Engineer | Smart Contract Auditor | Web3 Teacher | Blockchain Consultant | STEM Believer | Physics Enthusiast
+
       [LinkedIn](https://www.linkedin.com/in/jarir-ju/)
       [Twitter](https://twitter.com/JarirUddin)
       
